@@ -2,7 +2,6 @@ Project:  Randomized Questions
 July 2019
 
 Coded using:
-- Notepad++
 - HTML5
 - CSS3
 - Javascript
