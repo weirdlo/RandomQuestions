@@ -19,13 +19,6 @@ function randomQuestions()
 	question.push("Where in the world is Carmen Sandiego?");
 	question.push("How mad is Max?");
 	question.push("What are the 7 wonders of the world?");
-	question.push("What are the characteristics of your ideal candidate?");
-	question.push("What challenges are you currently facing that you hope your new hire can come in and help the team with?");
-	question.push("How do you envision your new hire stepping into the role? - Asking a lot of questions? Following a training plan?");
-	question.push("What are the day-to-day responsibilities of the role?");
-	question.push("What are the next steps in the interview process?");
-	question.push("What is your management style?");
-	question.push("When and how is feedback given to employees?");
 	
 	//Keep iterating through array until a unique index in picked.
 	do 
